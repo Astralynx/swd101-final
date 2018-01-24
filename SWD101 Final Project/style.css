@@ -1,0 +1,11 @@
+#footer {
+    position: fixed;
+    background-color: white;
+    bottom: 0;
+    left: 10px;
+    width: 300px;
+}
+#headshot {
+    width: 120px;
+    border: 1px solid black;
+}
