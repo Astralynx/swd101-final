@@ -6,6 +6,38 @@
     width: 300px;
 }
 #headshot {
-    width: 120px;
     border: 1px solid black;
+}
+#jumbotronBody {
+    display: flex;
+}
+.display-4 {
+    margin-left: 10px;
+    font-size: 700%;
+    color: white;
+    background-color: rgb(22, 22, 22);
+}
+#jumbotronText {
+    display: flex;
+    flex-direction: column;
+}
+.lead {
+    margin-left: 10px;
+    font-size: 200%;
+    color: white;
+    background-color: rgb(22, 22, 22);
+    padding-left: 5px;
+}
+#jumbotron {
+    background-image: url("images/code.png");
+    background-position: center;
+}
+#jumbotronIcons {
+    background-color: rgb(22, 22, 22);
+    margin-left: 10px;
+    margin-right: 600px;
+}
+#githubIcon, #linkedInIcon, #facebookIcon, #instagramIcon {
+    width: 40px;
+    padding: 5px 5px 5px;
 }
