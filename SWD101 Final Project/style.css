@@ -37,7 +37,7 @@
     margin-left: 10px;
     margin-right: 600px;
 }
-#githubIcon, #linkedInIcon, #facebookIcon, #instagramIcon {
+.icons {
     width: 40px;
     padding: 5px 5px 5px;
 }
