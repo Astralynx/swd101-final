@@ -40,3 +40,7 @@
     width: 40px;
     padding: 5px 5px 5px;
 }
+#techSkills {
+    list-style-type: none;
+    padding: 0;
+}
