@@ -19,5 +19,5 @@ function loadRepo(url, callback) {
 
 function loadRepoCallback(gitHubRequest) {
     let myRepos = JSON.parse('{"name", "html_url"}');
-    document.getElementById("info").innerHTML = myRepos.name;
+    document.getElementById("dynamicList").innerHTML = myRepos.name;
 }
